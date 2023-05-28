@@ -1,0 +1,10 @@
+.back, a{
+    margin: top 5px;
+    background-color: aqua;
+    color: wheat;
+    text-decoration: none;
+    width: 70 px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+}
